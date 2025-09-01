@@ -11,7 +11,7 @@ to withdraw money,deposit.
 ### REG NO: 212224040062
 ### USE CASE DIAGRAM:
 
-![WhatsApp Image 2025-08-18 at 11 20 48_a37564d2](https://github.com/user-attachments/assets/b9c3ffc7-3d48-42c1-894f-888521df61b6)
+<img width="1245" height="1023" alt="image" src="https://github.com/user-attachments/assets/03f73804-e29c-483b-bb0b-98af3a62a234" />
 
 ### CLASS DIAGRAM:
 
